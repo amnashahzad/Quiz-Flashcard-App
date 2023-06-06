@@ -1,0 +1,19 @@
+.container {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #options {
+    margin: 20px 0;
+  }
+  
+  #result {
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
